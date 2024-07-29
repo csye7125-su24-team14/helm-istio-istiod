@@ -1,4 +1,8 @@
 defaults:
+
+  KafkaRelease:
+    Name: my-kafka
+    Namespace: kafka
   #.Values.pilot for discovery and mesh wide config
 
   ## Discovery Settings
