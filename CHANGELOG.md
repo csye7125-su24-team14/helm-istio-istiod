@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/csye7125-su24-team14/helm-istio-istiod/compare/v1.1.0...v1.2.0) (2024-07-30)
+
+
+### Features
+
+* Update values.yaml ([267c256](https://github.com/csye7125-su24-team14/helm-istio-istiod/commit/267c25664ea1a46658936d241b846aa05490bab6))
+
 # [1.1.0](https://github.com/csye7125-su24-team14/helm-istio-istiod/compare/v1.0.0...v1.1.0) (2024-07-30)
 
 
