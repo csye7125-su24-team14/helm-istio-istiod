@@ -1,5 +1,4 @@
 defaults:
-
   KafkaRelease:
     Name: my-kafka
     Namespace: kafka
