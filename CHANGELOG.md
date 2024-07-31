@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/csye7125-su24-team14/helm-istio-istiod/compare/v1.2.0...v1.2.1) (2024-07-31)
+
+
+### Bug Fixes
+
+* Delete templates/kafka_istio_virtual_service.yaml ([ee4e821](https://github.com/csye7125-su24-team14/helm-istio-istiod/commit/ee4e82128fe0bf1ba384affc7125e65056214e89))
+
 # [1.2.0](https://github.com/csye7125-su24-team14/helm-istio-istiod/compare/v1.1.0...v1.2.0) (2024-07-30)
 
 
